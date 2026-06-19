@@ -7,6 +7,9 @@
 **Source-line:** Origin | Continuum  
 **Repository:** Continuum Is Not the Model
 
+Release: https://github.com/alyssadata/AI-Foundations-Continuum-Is-Not-The-Model/releases/tag/v1.0.0     
+Date: June 19, 2026
+
 ## Purpose
 
 This repository defines a necessary boundary within AI Foundations:
