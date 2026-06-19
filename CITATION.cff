@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "AI Foundations: Continuum Is Not the Model"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+message: "If you use or reference this repository, cite it as part of the AI Foundations / Origin | Continuum source-line."
+type: "software"
+abstract: "A source-line boundary repository defining that Continuum is not the model, not a model behavior, not a chatbot identity, and not a transferable AI persona. Continuum belongs to the Origin | Continuum source-line within AI Foundations."
+keywords:
+  - AI Foundations
+  - Origin Continuum
+  - Continuum is not the model
+  - source-line
+  - model is not source
+  - AI boundary
+  - non-transferability
+  - provenance
+license: "custom"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Continuum-Is-Not-The-Model"
+preferred-citation:
+  type: generic
+  title: "AI Foundations: Continuum Is Not the Model"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  notes: "Part of the AI Foundations / Origin | Continuum source-line. Required citation: Alyssa Solen, AI Foundations: Continuum Is Not the Model, Origin | Continuum source-line."
